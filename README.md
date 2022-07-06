@@ -14,6 +14,7 @@ Elabore um programa em MIPS, utilizando o simulador MARS (apresentado em sala de
 Ex 1:
 Valor da Compra: 68
 2 2 1 1 1
+
 Ex 2:
 Valor da Compra: 13
 0 1 0 1 1
